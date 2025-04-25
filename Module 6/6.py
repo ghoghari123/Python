@@ -10,6 +10,3 @@ def generator():
 print(generator)
 for gen in generator():
     print(gen)
-
-
-# Write a Python program that uses a custom iterator to iterate over a list of integers.
