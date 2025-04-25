@@ -1,6 +1,4 @@
-# Write a Python program that demonstrates the correct use of indentation, comments, and variables following PEP 8 guidelines 
-
-# take two number and addition of two number using thord variable
+ # take two number and addition of two number using thord variable
 n1 = 50
 n2 = 20
 
